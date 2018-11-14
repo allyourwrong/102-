@@ -1,5 +1,5 @@
 # “Hey, Siri!” 网页作品陈述
-### 本网页优先适用谷歌Chrome浏览器
+### 本网页优先适用谷歌Chrome浏览器，火狐Firefox浏览器
 
 制作小组：全都是你们的不队
 
@@ -32,6 +32,8 @@ Siri的小伙伴
 #### Siri的小伙伴:
 
 1.Cortana;2.IBM Watson;3.微软小冰;4.facebook Massager;5.google Allo;6.公子小白.
+
+其中每项各链接一个分页面，具体介绍相关产品
 
 #### 和Siri玩耍：
 
