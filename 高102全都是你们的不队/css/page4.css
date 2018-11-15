@@ -1,0 +1,47 @@
+
+    body{
+     background-image: url("../img/image/iphone.jpg");
+    }
+
+    h1{
+    	font-size: 50px;
+    }
+    #wenti{
+    	color: white;
+    	font-weight:bold;
+    	text-align:left;
+    	font-size: 30px;
+    }
+
+nav{
+    height:50px;
+    width:100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  bottom: 10;
+  right:0;
+    background-color: black;
+}
+
+#daohang{
+    list-style: none;
+    margin-top: 5px;
+  margin-left:10px;
+}
+#dh{
+    float:left;
+    margin:10px;
+}
+
+#img4{
+    height:50px;
+    width:50px;
+    float: left;
+    margin-left: 5px;
+}
+
+a{
+        text-decoration:none;
+        color: white;
+}
