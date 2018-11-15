@@ -15,11 +15,27 @@
 
 首页（index.html）
 
-Siri是什么
+>Siri是什么
 
-Siri的小伙伴
+>Siri的小伙伴
 
-和Siri玩耍
+>>Cortana
+
+>>Google Assistant
+
+>>Bixby
+
+>>小爱同学
+
+>>Jovi
+
+>>公子小白
+
+>>Holoera
+
+>>微软小冰
+
+>和Siri玩耍
 
 ### 二、网页内容
 
@@ -33,7 +49,7 @@ Siri的小伙伴
 
 #### Siri的小伙伴:
 
-1.Cortana;2.IBM Watson;3.微软小冰;4.facebook Massager;5.google Allo;6.公子小白.
+1.Cortana;2.Google Assistant;3.Bixby;4.小爱同学;5.Jovi;6.公子小白;7.Holoera;8.微软小冰
 
 其中每项各链接一个分页面，具体介绍相关产品
 
