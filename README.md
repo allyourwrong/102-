@@ -19,21 +19,21 @@
 
 >Siri的小伙伴
 
-   >>Cortana
+*Cortana
 
-   >>Google Assistant
+*Google Assistant
 
-   >>Bixby
+*Bixby
 
-   >>小爱同学
+*小爱同学
 
-   >>Jovi
+*Jovi
 
-   >>公子小白
+*公子小白
 
-   >>Holoera
+*Holoera
 
-   >>微软小冰
+*微软小冰
 
 >和Siri玩耍
 
